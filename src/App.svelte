@@ -59,7 +59,7 @@
   })
 </script>
 
-<div class="fixed top-6 z-50 left-6 right-6">
+<div class="fixed top-5 z-50 left-5 right-5">
   <input
     bind:this={searchInput}
     bind:value={query}

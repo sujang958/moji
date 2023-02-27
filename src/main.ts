@@ -3,7 +3,7 @@ import App from "./App.svelte"
 import { globalShortcut } from "@tauri-apps/api"
 import { LogicalPosition, appWindow } from "@tauri-apps/api/window"
 
-const SHORTCUT = "Control+K"
+const SHORTCUT = "Control+Shift+A"
 const POSITION_KEY = "position"
 
 globalShortcut.isRegistered(SHORTCUT).then(async (yes) => {
