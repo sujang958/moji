@@ -4,13 +4,14 @@
 
 ## Introduction
 
-`⊞ Win + .` emoji doesn't have any search bar.
+The `⊞ Win + .` emoji tab doesn't have any search bar.
 So I decided to give it a search bar.
 
 ## Features
 
 - Searchable
 - Comfortable keyboard shortcuts
+- Auto-start
 
 ## Shortcuts
 
